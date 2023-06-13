@@ -43,4 +43,3 @@ https://github.com/reddit/reddit/wiki/JSON
 - Send us your code either in a GitHub Repository, zip file with the project, or any other way you feel comfortable with.
 
 Good luck!
-# react-native-ftf-challenge
